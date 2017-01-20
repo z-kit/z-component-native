@@ -12,7 +12,7 @@
     "lint": "eslint index.ios.js index.android.js src test",
     "test": "npm run lint && nyc ava test",
     "build": "mkdirp dist && babel src --out-file dist/index.js --source-maps",
-    "prepublish": "npm test && npm run build"
+    "prepublish": "npm run build"
   },
   "author": "Matheus Kautzmann",
   "license": "MIT",
