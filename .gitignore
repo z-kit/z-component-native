@@ -35,6 +35,7 @@ local.properties
 .nyc_output
 coverage
 node_modules/
+dist
 npm-debug.log
 yarn-error.log
 
