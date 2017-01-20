@@ -1,3 +1,9 @@
+/**
+ * Copyright (c) 2017 z-kit contributors.
+ * @license MIT LICENSE
+ * https://github.com/z-kit/z-hello-native
+ */
+
 import React from 'react';
 import {
   StyleSheet,
