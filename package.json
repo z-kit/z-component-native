@@ -53,7 +53,7 @@
     }
   },
   "dependencies": {
-    "react": "^15.4.2",
+    "react": "^16.10.0",
     "react-native": "^0.40.0"
   },
   "devDependencies": {
