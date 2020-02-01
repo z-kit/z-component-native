@@ -67,7 +67,7 @@
     "eslint-config-airbnb": "^14.0.0",
     "eslint-plugin-import": "^2.2.0",
     "eslint-plugin-jsx-a11y": "^3.0.2",
-    "eslint-plugin-react": "^6.9.0",
+    "eslint-plugin-react": "^7.18.1",
     "mkdirp": "^0.5.1",
     "nyc": "^10.0.0",
     "react-native-mock": "^0.2.9"
